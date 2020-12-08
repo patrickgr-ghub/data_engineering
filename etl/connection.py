@@ -5,6 +5,7 @@ import configparser
 from pprint import pprint
 from time import time
 
+# Created December 2020
 # Load all config parameters from the config file "dwh.cfg"
 
 config = configparser.ConfigParser()
@@ -141,4 +142,3 @@ def main():
     
 if __name__ == "__main__":
     main()
- 
