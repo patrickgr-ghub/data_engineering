@@ -1,7 +1,14 @@
 # data_engineering
-Various Projects to Expand Data Engineering Knowledge
+Core Data Engineering Knowledge for Delivering Other Projects
 
-<p>This repository represents a variety of projects for expanding knowledge of Data Engineering concepts such as ETL, ELT, AWS, Big Data and more.</p>
+<p>This repository represents fundamental processes to deliver other Data Engineering projects.
 
+1. Establish Authentication Credentials using Config Parser
+2. Create & Launch an Amazon Redshift Cluster for Analytics
+3. Upload Tables to Redshift Cluster
+4. Copy and Insert Records from S3 Buckets
+5. Delete Redshift Cluster after use
 
-Last Update - November 2020
+</p>
+
+Last Update - December 2020
